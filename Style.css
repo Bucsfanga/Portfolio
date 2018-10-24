@@ -1,0 +1,50 @@
+/* Style sheet set to chrome*/
+body{
+    margin: 0 25%;
+    background-image: url("vintage-concrete.png")
+}
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    background-color: aqua;
+    display: block;
+}
+h2{
+    font-size: 1em;
+    font-weight: bold;
+}
+li{
+    float: right;
+}
+li a{
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a:hover{
+    background-color: bisque;
+}
+.section{
+    padding: 30px;
+    border-top: 4px solid red;
+    width: 960px;
+    background-color: aqua;
+    align-content: center;
+}
+.menu{
+    border: 1px solid  ;
+    
+}
+form{
+    padding: 30px;
+}
+.grid{
+    border-top: 20px;
+    border-spacing: 30px;
+    margin: 20px;
+}
+td{
+    padding: 20px;
+
+}
