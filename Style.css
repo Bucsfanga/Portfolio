@@ -3,15 +3,37 @@ body{
     margin: 0 25%;
     background-image: url("vintage-concrete.png")
 }
+header{
+    width: 100%;
+    margin-top: 0;
+    height: 50px;
+}
+.A{
+    width: 30%;
+    height: 100%;
+    margin: 0px;
+    float: left;
+    text-align: center;
+}
+.B{
+    width: 70%;
+    height: 100%;
+    margin: 0px;
+    float: right;
+}
 h1{
     font-size: 2em;
     font-weight: bold;
-    background-color: aqua;
     display: block;
 }
 h2{
     font-size: 1em;
     font-weight: bold;
+}
+ul{ 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 li{
     float: right;
@@ -25,16 +47,11 @@ li a{
 li a:hover{
     background-color: bisque;
 }
-.section{
+.area{
     padding: 30px;
-    border-top: 4px solid red;
     width: 960px;
-    background-color: aqua;
     align-content: center;
-}
-.menu{
-    border: 1px solid  ;
-    
+    height: 500px;
 }
 form{
     padding: 30px;
@@ -46,5 +63,10 @@ form{
 }
 td{
     padding: 20px;
-
+}
+#bio{
+    padding: 20px;
+}
+#pic{
+    padding: 20px;
 }
