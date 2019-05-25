@@ -1,2 +1,2 @@
 Hello World!
-Created Portfolio files and change names to reflectr new format
+Created Portfolio files and change names to reflect new format
