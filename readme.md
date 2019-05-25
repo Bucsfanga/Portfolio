@@ -1,2 +1,5 @@
-Hello World!
-Created Portfolio files and change names to reflect new format
+PortFolio Resume
+===================
+
+Donald Thatcher
+Software Engineer | B.S Information Technology
