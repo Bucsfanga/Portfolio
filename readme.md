@@ -1,4 +1,4 @@
-PortFolio Resume
+Portfolio Resume
 ===================
 
 Donald Thatcher
